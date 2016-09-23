@@ -7,3 +7,6 @@ function catalogService (db) {
         return db.categories.get(id);
     };
 }
+
+
+var aa,bb,cc;
