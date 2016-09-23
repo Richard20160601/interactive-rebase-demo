@@ -8,5 +8,5 @@ function catalogService (db) {
     };
 }
 
-
+var ff,ee,dd;
 var aa,bb,cc;
